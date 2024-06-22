@@ -14,6 +14,12 @@
     </a>
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=olober76&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+## 👨🏻‍💻 &nbsp;About Me:
+
+<p>👋 &nbsp;Hi there! I'm Kukuh, passionate in Machine Learning, Data Engineering, Embedded Systems, and Robotics.</p>
+<p>🔍 &nbsp;I'm actively seeking roles as a AI Engineer, Data Engineerm, and Embedded Systems and Robotics Engineer.</p>
+<p>🚀 &nbsp;My technical skillset includes  C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
+<p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/18MhO-F-YVpq1jUpEf_yLRWvWx4yFkQP4/view?usp=sharing">Resume</a>  and <a href="https://drive.google.com/drive/folders/1iygmtg9w6o_Bh_mIC08yDi-ehe7pw2Cc?usp=sharing">Certifications</a> for more information about my experience and skills.</p>
+<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
+
+
