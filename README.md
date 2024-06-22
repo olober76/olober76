@@ -12,5 +12,8 @@
     <a href="https://www.instagram.com/mortis_abelson/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
+</p>
 
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=olober76&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
