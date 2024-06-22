@@ -43,7 +43,6 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)&nbsp;
 
 
-[![Olober's GitHub stats](https://github-readme-stats.vercel.app/api?username=olober76)](https://github.com/olober76)
 
 
 
