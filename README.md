@@ -22,7 +22,6 @@
 <p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/18MhO-F-YVpq1jUpEf_yLRWvWx4yFkQP4/view?usp=sharing">Resume</a>  and <a href="https://drive.google.com/drive/folders/1iygmtg9w6o_Bh_mIC08yDi-ehe7pw2Cc?usp=sharing">Certifications</a> for more information about my experience and skills.</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
-
 ### 💻 &nbsp;Tools:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -32,7 +31,7 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
-
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
 
 ### 💻 &nbsp;Tech Spark:
 
@@ -41,12 +40,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)&nbsp;
-
-
-
-
-
-
-
-
-
