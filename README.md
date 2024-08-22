@@ -16,7 +16,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p> ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue) </p>
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 <p>👋 &nbsp;Hi there! I'm Kukuh, passionate in Machine Learning, Data Engineering, Embedded Systems, and Robotics.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a AI Engineer, Data Engineer, and Embedded Systems and Robotics Engineer.</p>
 <p>🚀 &nbsp;My technical skillset includes  C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the industry.</p>
