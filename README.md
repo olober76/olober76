@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/Duta Kukuh Pribadi.png">
+	<img src="./assets/Duta Kukuh Pribadi.png">
 </p>
 
 <p align="center">
