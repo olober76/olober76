@@ -18,7 +18,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-<p>👋 &nbsp;Hi there! I'm Kukuh, passionate in Machine Learning, Data Engineering, Embedded Systems, and Robotics.</p>
+<p>👋 &nbsp;Hi there! I'm Kukuh, passionate in artificial intelligence, Machine Learning, Data Engineering, Embedded Systems, and Robotics.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a AI Engineer, Data Engineer, and Embedded Systems and Robotics Engineer.</p>
 <p>🚀 &nbsp;My technical skillset includes  C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the industry.</p>
 <p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1wQdjJcF53tahTL0nd4H-NaSUlDvqbkZy/view?usp=sharing">Resume</a>  and <a href="https://drive.google.com/drive/folders/1iygmtg9w6o_Bh_mIC08yDi-ehe7pw2Cc?usp=sharing">Certifications</a> for more information about my experience and skills.</p>
@@ -34,6 +34,11 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### 💻 &nbsp;Tech Spark:
 
